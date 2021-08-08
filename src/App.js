@@ -1,11 +1,7 @@
-import './App.css';
-import HomeContainer from "./Containers/HomeConatiner"
+import "./App.css";
+
 function App() {
-  return (
-    <div className="App">
- <HomeContainer/>
-    </div>
-  );
+  return <div className="App">Hello world</div>;
 }
 
 export default App;
